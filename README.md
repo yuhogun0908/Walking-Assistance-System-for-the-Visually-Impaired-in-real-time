@@ -1,7 +1,7 @@
 # WSVI
 WASVI : Walking Assistance System for the Visually Impaired in real-time
 
-# methods
+## Methods
 [1]. Object Detection
 [2]. Multi Object Tracking
 [3]. Traffic Light Detection
