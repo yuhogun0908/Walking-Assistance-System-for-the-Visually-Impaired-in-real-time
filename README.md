@@ -2,10 +2,10 @@
 WASVI : Walking Assistance System for the Visually Impaired in Real-Time
 
 ## Methods
-[1]. Object Detection
-[2]. Multi Object Tracking
-[3]. Traffic Light Detection
-[4]. Pedestrian Intention Prediction
+[1]. Object Detection : to detect the specific object(person, car, etc.) in each frames.
+[2]. Multi Object Tracking : to assign and maintain a unique ID to each object in a video.
+[3]. Traffic Light Detection : to detect the traffic light signal which is various over the country.
+[4]. Pedestrian Intention Prediction : to make the system possible to predict the surrounding pedestrian intention.
 
 ## Asuumption
 The visually impaired has ability to follow the direction well with his cane on the sidewalk.
