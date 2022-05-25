@@ -61,6 +61,6 @@ python superman.py --video2frames True --videoName Final1.mp4 --use_cuda 1
 <img src="https://user-images.githubusercontent.com/67786803/170382895-92fa8c1d-983c-4757-b5d9-3fdcd91502ae.png" width="800" height="372">
 
 ## Reference
-https://arxiv.org/abs/2105.04206
-https://arxiv.org/pdf/2010.10270.pdf
-
+[1]. Wang, Chien-Yao, I-Hau Yeh, and Hong-Yuan Mark Liao. "You only learn one representation: Unified network for multiple tasks." arXiv preprint arXiv:2105.04206 (2021).
+[2]. Bouhsain, Smail Ait, Saeed Saadatnejad, and Alexandre Alahi. "Pedestrian intention prediction: A multi-task perspective." arXiv preprint arXiv:2010.10270 (2020).
+[3]. Romic, Kreimir, et al. "Real-time multiresolution crosswalk detection with walk light recognition for the blind." Advances in Electrical and Computer Engineering 18.1 (2018): 11-20.
