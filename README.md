@@ -55,7 +55,7 @@ python superman.py --video2frames True --videoName Final1.mp4 --use_cuda 1
 <img src="https://user-images.githubusercontent.com/67786803/170382750-19c7a66a-815c-4b16-8450-f0fdf3c09beb.png" width="800" height="372">
 
 -Detect the crosswalk
-<img src="https://user-images.githubusercontent.com/67786803/170382677-4c136deb-05eb-4370-8665-72423e85fe68.png" width="247" height="112">
+<img src="https://user-images.githubusercontent.com/67786803/170382677-4c136deb-05eb-4370-8665-72423e85fe68.png" width="800" height="372">
 
 ## Time Break-down
 <img src="https://user-images.githubusercontent.com/67786803/170382895-92fa8c1d-983c-4757-b5d9-3fdcd91502ae.png" width="800" height="372">
