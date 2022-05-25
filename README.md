@@ -19,16 +19,16 @@ Detect the crosswalk and its direction(not yet)
 
 
 - Overall Architecture
-<img src="https://user-images.githubusercontent.com/67786803/170381742-b07b64f3-0c89-45de-a773-feb5336a18f0.png" width="800" height="372">
+<img src="https://user-images.githubusercontent.com/67786803/170383356-6c5d97a2-ebcf-49f3-be70-e4ea23de6bf6.png" width="800" height="372">
 
 - Detect Traffic Light Signal
-<img src="https://user-images.githubusercontent.com/67786803/170381958-f0d7063d-7903-41a2-ae23-dd9dff69f3cc.png" width="800" height="372">
+<img src="https://user-images.githubusercontent.com/67786803/170383396-3cb3c162-3ef6-414d-9406-079654ca4bef.png" width="800" height="372">
 
 - Detect Pedestrian Intention Prediction
-<img src="https://user-images.githubusercontent.com/67786803/170382197-5a300243-ac16-4462-b564-0aec67191c48.png" width="800" height="372">
+<img src="https://user-images.githubusercontent.com/67786803/170383427-c5092c63-59cc-451f-96ae-b9f8309e9843.png" width="800" height="372">
 
 -Detecting CrossWalk
-<img src="https://user-images.githubusercontent.com/67786803/170382339-4d4ade60-d399-4e40-8703-fef035216c3a.png" width="800" height="372">
+<img src="https://user-images.githubusercontent.com/67786803/170383479-73d8a354-9ea1-452a-9194-073094ce039d.png" width="800" height="372">
 
 ## setup python packages environments
 ```
