@@ -27,7 +27,7 @@ Detect the crosswalk and its direction(not yet)
 - Detect Pedestrian Intention Prediction
 <img src="https://user-images.githubusercontent.com/67786803/170383427-c5092c63-59cc-451f-96ae-b9f8309e9843.png" width="800" height="372">
 
--Detecting CrossWalk
+- Detecting CrossWalk
 <img src="https://user-images.githubusercontent.com/67786803/170383479-73d8a354-9ea1-452a-9194-073094ce039d.png" width="800" height="372">
 
 ## setup python packages environments
